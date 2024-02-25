@@ -6,4 +6,4 @@ the insert front function is used to add the job applicant details to the front 
 the insert rear function is used to add the job appplicant details to the rear of the linked list
 the display function is used to display the details of all the job applicants
 the count function is used to display how many applicants have applied for the job
-the search function is sued if we want to get the entire details of the applicant by using the name of the apllicant
+the search function is sued if we want to get the entire details of the applicant by using the name of the applicant
